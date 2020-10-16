@@ -7,4 +7,8 @@ le ciel est bleu youhou
 
 le lavabo il est beau, le bidet il est laid
 
+<<<<<<< HEAD
 isabelle a les yeux bleus, bleus les yeux Isabelle a
+=======
+Auteuil Neuilly Passy, tel est notre ghetto
+>>>>>>> 19b1f21fececfabf155724f7d3bcc6bf2f0edf81
